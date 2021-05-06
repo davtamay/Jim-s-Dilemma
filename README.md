@@ -12,7 +12,7 @@ Showcase
 Oculus Quest
 
 ## Working state 
-Baseline application to show and receive appropriate data is done. 
+Baseline application to show is done. 
 
 ## Mechanics  
 Shine light on creatures trying to get the vr headsets in the room to scare them before you run out of them.
