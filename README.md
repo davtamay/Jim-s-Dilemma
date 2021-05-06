@@ -12,7 +12,7 @@ Showcase
 Oculus Quest
 
 ## Working state 
-Baseline application to show is done. 
+Baseline application includes the ability to set amount of waves and to have from 5 different creatures to spawn.
 
 ## Mechanics  
 Shine light on creatures trying to get the vr headsets in the room to scare them before you run out of them.
